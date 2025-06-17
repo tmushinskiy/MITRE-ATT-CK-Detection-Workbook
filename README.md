@@ -18,7 +18,7 @@ The MITRE ATT&CK Detection Workbook project focuses on mapping and detecting adv
 - Sigma Rules (for writing detection rules across platforms)  
 - Sysmon (endpoint telemetry generation and logging)  
 - Windows Event Viewer (log collection and analysis)  
-- Elastic Stack or Splunk Free (for log ingestion, search, and visualization)  
-- Atomic Red Team or CALDERA (for simulating ATT&CK techniques in test environments)
+- Elastic Stack (for log ingestion, search, and visualization)  
+- Atomic Red Team (for simulating ATT&CK techniques in test environments)
 
 ## Steps
